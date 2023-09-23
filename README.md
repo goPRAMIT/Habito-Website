@@ -1,5 +1,5 @@
 # Habito-Website
-Developed a Front-end website featuring Habito App using HTML and CSS
+Developed a Front-end website featuring Habito App using HTML and CSS <br>
 Webste Link: https://habitobydroidpramit.netlify.app/
 
 
